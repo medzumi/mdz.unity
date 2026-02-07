@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace mdz.Editor
+namespace mdz.unity.editor
 {
     public struct EditorGUIData
     {

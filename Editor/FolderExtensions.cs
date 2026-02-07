@@ -2,7 +2,7 @@ using System.IO;
 using System.Text.RegularExpressions;
 using UnityEditor;
 
-namespace mdz.Editor
+namespace mdz.unity.editor
 {
     public static class FolderExtensions
     {

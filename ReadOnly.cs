@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace mdz.Attributes
+namespace mdz.unity
 {
     public class ReadOnlyAttribute : PropertyAttribute
     {

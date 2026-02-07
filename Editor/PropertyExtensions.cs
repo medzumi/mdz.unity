@@ -6,7 +6,7 @@ using System.Text;
 using UnityEditor;
 using UnityEngine;
 
-namespace mdz.Editor
+namespace mdz.unity.editor
 {
 
     public struct SerializedPropertyInfo

@@ -1,6 +1,7 @@
 using UnityEditor;
 using UnityEngine;
-namespace mdz.Attributes.Editor
+
+namespace mdz.unity.editor
 {
     [CustomPropertyDrawer(typeof(ReadOnlyAttribute))]
     public class ReadOnlyDrawer : PropertyDrawer
